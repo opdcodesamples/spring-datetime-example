@@ -20,6 +20,7 @@ public class Order {
 
 	private String status;
 	
+	// don't do anything in entity
 	private Timestamp orderDate;
 
 	public Order(long id) {
